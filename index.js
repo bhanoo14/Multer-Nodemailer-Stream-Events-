@@ -1,6 +1,5 @@
 const fs = require('fs')
 const multer = require('multer')
-const formidable = require('formidable')
 const nodeMailer = require('nodemailer')
 const formidable = require('formidable');
 const express = require('express');
